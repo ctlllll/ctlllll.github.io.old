@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -18,19 +18,19 @@ I am a junior student majoring in applied mathematics at Peking University (PKU)
 
 - ### **(Preprint)** [**A Gram-Gauss-Newton Method Learning Overparameterized Deep Neural Networks for Regression Problems**](https://arxiv.org/abs/1905.11675)
 
-  **Tianle Cai\***, Ruiqi Gao*, Jikai Hou*, Siyu Chen, Dong Wang, Di He, Zhihua Zhang, Liwei Wang
+  ***Tianle Cai**\*, Ruiqi Gao\*, Jikai Hou\*, Siyu Chen, Dong Wang, Di He, Zhihua Zhang, Liwei Wang*
 
   **Highlight: A provable second-order optimization method for overparameterized network on regression problem! As light as SGD at each iteration but converge much faster than SGD for real world application.**
 
 - ### **(Preprint)** [**Adversarially Robust Generalization Just Requires More Unlabeled Data**](https://arxiv.org/abs/1906.00555)
 
-  Runtian Zhai*, **Tianle Cai\***, Di He, Chen Dan, Kun He, John Hopcroft, Liwei Wang
+  *Runtian Zhai\*, **Tianle Cai\***, Di He, Chen Dan, Kun He, John Hopcroft, Liwei Wang*
 
   **Highlight: Though robust generalization need more data, we show that just more unlabeled data is enough by both theory and experiments!**
 
 - ### **(NeurIPS 2019 *Spotlight*)** [**Convergence of Adversarial Training in Overparametrized Networks**](https://arxiv.org/abs/1906.07916)
 
-  Ruiqi Gao*, **Tianle Cai\***, Haochuan Li, Liwei Wang, Cho-Jui Hsieh, Jason D. Lee****
+  *Ruiqi Gao\*, **Tianle Cai\***, Haochuan Li, Liwei Wang, Cho-Jui Hsieh, Jason D. Lee*
 
   **Highlight: For overparameterized neural network, we prove that adversarial training can converge to global minima (with loss 0).**
 
