@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a junior student majoring in applied mathematics at Peking University (PKU) while pursuing a double major in computer science. I am doing undergraduate research about machine learning theory especially deep learning theory advised by Professor [Liwei Wang](http://www.cis.pku.edu.cn/faculty/vision/wangliwei). I am mostly interested on the theory that can inspire us make better algorithms. I spent a wonderful summer at MIT as a research intern supervised by Professor [Sasha Rakhlin](http://www.mit.edu/~rakhlin/) in 2019. I am also fortunate to work with Professor [Jason D. Lee](http://www-bcf.usc.edu/~lee715/).
+I am a senior student majoring in applied mathematics at Peking University (PKU) while pursuing a double major in computer science. I am doing undergraduate research about machine learning theory especially deep learning theory advised by Professor [Liwei Wang](http://www.cis.pku.edu.cn/faculty/vision/wangliwei). I am mostly interested on the theory that can inspire us make better algorithms. I spent a wonderful summer at MIT as a research intern supervised by Professor [Sasha Rakhlin](http://www.mit.edu/~rakhlin/) in 2019. I am also fortunate to work with Professor [Jason D. Lee](http://www-bcf.usc.edu/~lee715/).
 
 **I will apply for Ph.D this year!**
 
