@@ -35,3 +35,12 @@ Education
 - Practice of Programming in C&C++: 97 / 100
 - Data Structure and Algorithm (B): 99 / 100
 
+## Selected Awards
+
+- Chinese Mathematical Olympiad, First Prize, 2016
+- The Mathematical Contest in Modeling, M Prize, 2018
+- S. T. Yao College Student Mathematics Contests, Bronze Medal, 2018
+- Peking University ACM Contests, Problem Provider Award, 2018
+- Merit Student in PKU, 2017, 2018
+- Founder Scholarship, 2017
+- POSCO Scholarship, 2018
