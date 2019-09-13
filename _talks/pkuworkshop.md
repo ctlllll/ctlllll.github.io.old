@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/pkuworkshop
 venue: "PKU machine learning workshop"
-date: 2019
+date: 2019-6-21
 location: "Beijing, China"
 ---
 
